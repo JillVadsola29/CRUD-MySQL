@@ -24,7 +24,7 @@ Crud-MySQL is a basic e-commerce system built with NestJS backend and React fron
 
 ### Server Setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/Crud-MySQL.git`
+1. Clone the repository: `git clone https://github.com/JillVadsola29/Crud-MySQL.git`
 2. Navigate to server directory: `cd Crud-MySQL/ecommers-server`
 3. Install dependencies: `npm install`
 4. Configure database: Create a MySQL database and update connection settings in `src/app.module.ts`
