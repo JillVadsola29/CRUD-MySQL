@@ -11,7 +11,7 @@ function App() {
         <AppBar position="static">
           <Toolbar>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              My App
+              Crud-MySQL
             </Typography>
             <Button color="inherit" component={Link} to="/users">
               Users
